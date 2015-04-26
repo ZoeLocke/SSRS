@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS", "SSRS\SSRS.rptproj", "{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{F87C07F2-E0D5-465E-9521-A5BA279B8B6A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		oz-locke-ssrs.pdf = oz-locke-ssrs.pdf
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Debug|Default.ActiveCfg = Debug
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Debug|Default.Build.0 = DebugLocal
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Debug|Default.Deploy.0 = DebugLocal
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.DebugLocal|Default.Build.0 = DebugLocal
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Release|Default.ActiveCfg = Release
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Release|Default.Build.0 = Release
+		{1F45F970-3ADB-441B-A5F4-5EA185A5D4F1}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MainDataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=mhknbn2kdz.database.windows.net;Initial Catalog=AdventureWorks2012</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>8da48a73-579e-4b69-b57c-03488d72ba63</DataSourceID>
+</RptDataSource>

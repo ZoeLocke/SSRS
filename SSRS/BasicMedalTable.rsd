@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>MainDataSource</DataSourceReference>
+      <CommandText>SELECT 'AABYE, Edgar' AS athlete, 'ZZX' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Tug of War' AS sport, 'Tug of War' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Diving' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Swimming' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Synchronized S.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Water polo' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Diving' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Swimming' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Synchronized S.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Arvo Ossian' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Water polo' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AALTONEN, Paavo Johannes' AS athlete, 'FIN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AAMODT, Ragnhild' AS athlete, 'NOR' AS noc, 'Women' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Handball' AS sport, 'Handball' AS discipline 
+UNION ALL
+SELECT 'AANING, Alf Lied' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AANING, Alf Lied' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AANING, Alf Lied' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AARDENBURG, Willemien' AS athlete, 'NED' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'AARDEWIJN, Pepijn' AS athlete, 'NED' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'AARONES, Ann Kristin' AS athlete, 'NOR' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Football' AS sport, 'Football' AS discipline 
+UNION ALL
+SELECT 'AAS, Karl Jan' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline 
+UNION ALL
+SELECT 'AAS, Karl Jan' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Rhythmic G.' AS discipline 
+UNION ALL
+SELECT 'AAS, Karl Jan' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Trampoline' AS discipline 
+UNION ALL
+SELECT 'AAS, Thomas Valentin' AS athlete, 'NOR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Sailing' AS sport, 'Sailing' AS discipline 
+UNION ALL
+SELECT 'ABAJO, Jose Luis' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Fencing' AS sport, 'Fencing' AS discipline 
+UNION ALL
+SELECT 'ABAKUMOVA, Maria' AS athlete, 'RUS' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Athletics' AS sport, 'Athletics' AS discipline 
+UNION ALL
+SELECT 'ABALMASAU, Aliaksei' AS athlete, 'BLR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Canoe / Kayak' AS sport, 'Canoe / Kayak F' AS discipline 
+UNION ALL
+SELECT 'ABALMASAU, Aliaksei' AS athlete, 'BLR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Canoe / Kayak' AS sport, 'Canoe / Kayak S' AS discipline 
+UNION ALL
+SELECT 'ABALO, Luc' AS athlete, 'FRA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Handball' AS sport, 'Handball' AS discipline 
+UNION ALL
+SELECT 'ABANDA ETONG, Patrice' AS athlete, 'CMR' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Football' AS sport, 'Football' AS discipline 
+UNION ALL
+SELECT 'ABARCA, Jose Maria' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Aquatics' AS sport, 'Diving' AS discipline 
+UNION ALL
+SELECT 'ABARCA, Jose Maria' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Aquatics' AS sport, 'Swimming' AS discipline 
+UNION ALL
+SELECT 'ABARCA, Jose Maria' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Aquatics' AS sport, 'Synchronized S.' AS discipline 
+UNION ALL
+SELECT 'ABARCA, Jose Maria' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Aquatics' AS sport, 'Water polo' AS discipline 
+UNION ALL
+SELECT 'ABAS, Stephen' AS athlete, 'USA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Free.' AS discipline 
+UNION ALL
+SELECT 'ABAS, Stephen' AS athlete, 'USA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Gre-R' AS discipline 
+UNION ALL
+SELECT 'ABASCAL GARCIA, Alejandro' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Sailing' AS sport, 'Sailing' AS discipline 
+UNION ALL
+SELECT 'ABASCAL GOMEZ, Jose Manuel' AS athlete, 'ESP' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Athletics' AS sport, 'Athletics' AS discipline 
+UNION ALL
+SELECT 'ABASSOVA, Tamilla' AS athlete, 'RUS' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Cycling' AS sport, 'BMX' AS discipline 
+UNION ALL
+SELECT 'ABASSOVA, Tamilla' AS athlete, 'RUS' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Cycling' AS sport, 'Cycling Road' AS discipline 
+UNION ALL
+SELECT 'ABASSOVA, Tamilla' AS athlete, 'RUS' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Cycling' AS sport, 'Cycling Track' AS discipline 
+UNION ALL
+SELECT 'ABASSOVA, Tamilla' AS athlete, 'RUS' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Cycling' AS sport, 'Mountain Bike' AS discipline 
+UNION ALL
+SELECT 'ABATI, Joel' AS athlete, 'FRA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Handball' AS sport, 'Handball' AS discipline 
+UNION ALL
+SELECT 'ABAY, Peter' AS athlete, 'HUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Fencing' AS sport, 'Fencing' AS discipline 
+UNION ALL
+SELECT 'ABAY-NEMES, Oszkar' AS athlete, 'HUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Diving' AS discipline 
+UNION ALL
+SELECT 'ABAY-NEMES, Oszkar' AS athlete, 'HUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Swimming' AS discipline 
+UNION ALL
+SELECT 'ABAY-NEMES, Oszkar' AS athlete, 'HUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Synchronized S.' AS discipline 
+UNION ALL
+SELECT 'ABAY-NEMES, Oszkar' AS athlete, 'HUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Water polo' AS discipline 
+UNION ALL
+SELECT 'ABBA, Silvano' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Modern Pentathlon' AS sport, 'Modern Pentath.' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Agostino' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Agostino' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Agostino' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Carmine' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Carmine' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Carmine' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Giuseppe' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Giuseppe' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBAGNALE, Giuseppe' AS athlete, 'ITA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Rowing' AS sport, 'Rowing' AS discipline 
+UNION ALL
+SELECT 'ABBOTT, Des' AS athlete, 'AUS' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABBOTT, Margaret Ives' AS athlete, 'USA' AS noc, 'Women' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Golf' AS sport, 'Golf' AS discipline 
+UNION ALL
+SELECT 'ABBOTT, Monica' AS athlete, 'USA' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Softball' AS sport, 'Softball' AS discipline 
+UNION ALL
+SELECT 'ABDALLAH, Nia' AS athlete, 'USA' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Taekwondo' AS sport, 'Taekwondo' AS discipline 
+UNION ALL
+SELECT 'ABDO, Reema' AS athlete, 'CAN' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Diving' AS discipline 
+UNION ALL
+SELECT 'ABDO, Reema' AS athlete, 'CAN' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Swimming' AS discipline 
+UNION ALL
+SELECT 'ABDO, Reema' AS athlete, 'CAN' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Synchronized S.' AS discipline 
+UNION ALL
+SELECT 'ABDO, Reema' AS athlete, 'CAN' AS noc, 'Women' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Aquatics' AS sport, 'Water polo' AS discipline 
+UNION ALL
+SELECT 'ABDOOLLAYEV, Mahammatkodir' AS athlete, 'UZB' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Boxing' AS sport, 'Boxing' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Hamid' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Hamid' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Hamid' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Rashid I' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Rashid III' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Rashid III' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Rashid III' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Rashid IV' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDUL, Waheed' AS athlete, 'PAK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Hockey' AS sport, 'Hockey' AS discipline 
+UNION ALL
+SELECT 'ABDULBEKOV, Zagalav' AS athlete, 'URS' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Wrestling' AS sport, 'Wrestling Free.' AS discipline 
+UNION ALL
+SELECT 'ABDULBEKOV, Zagalav' AS athlete, 'URS' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Wrestling' AS sport, 'Wrestling Gre-R' AS discipline 
+UNION ALL
+SELECT 'ABDULLAYEV, Namig' AS athlete, 'AZE' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Free.' AS discipline 
+UNION ALL
+SELECT 'ABDULLAYEV, Namig' AS athlete, 'AZE' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Gre-R' AS discipline 
+UNION ALL
+SELECT 'ABDULLAYEV, Namig' AS athlete, 'AZE' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Wrestling' AS sport, 'Wrestling Free.' AS discipline 
+UNION ALL
+SELECT 'ABDULLAYEV, Namig' AS athlete, 'AZE' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Wrestling' AS sport, 'Wrestling Gre-R' AS discipline 
+UNION ALL
+SELECT 'ABDUR-RAHIM, Shareef' AS athlete, 'USA' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Basketball' AS sport, 'Basketball' AS discipline 
+UNION ALL
+SELECT 'ABDUSALOMOV, Yusup' AS athlete, 'TJK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Free.' AS discipline 
+UNION ALL
+SELECT 'ABDUSALOMOV, Yusup' AS athlete, 'TJK' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Wrestling' AS sport, 'Wrestling Gre-R' AS discipline 
+UNION ALL
+SELECT 'ABDUVALIEV, Andrey' AS athlete, 'EUN' AS noc, 'Men' AS gender, 'Summer' AS season, 'Gold' AS medal, 1 AS medalValue, 'Athletics' AS sport, 'Athletics' AS discipline 
+UNION ALL
+SELECT 'ABEBE, Addis' AS athlete, 'ETH' AS noc, 'Men' AS gender, 'Summer' AS season, 'Bronze' AS medal, 3 AS medalValue, 'Athletics' AS sport, 'Athletics' AS discipline 
+UNION ALL
+SELECT 'ABEGGLEN, Max' AS athlete, 'SUI' AS noc, 'Men' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Football' AS sport, 'Football' AS discipline 
+UNION ALL
+SELECT 'ABEL, Irene' AS athlete, 'GDR' AS noc, 'Women' AS gender, 'Summer' AS season, 'Silver' AS medal, 2 AS medalValue, 'Gymnastics' AS sport, 'Artistic G.' AS discipline</CommandText>
+      <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+    </Query>
+    <Fields>
+      <Field Name="athlete">
+        <DataField>athlete</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="noc">
+        <DataField>noc</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="gender">
+        <DataField>gender</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="season">
+        <DataField>season</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="medal">
+        <DataField>medal</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="medalValue">
+        <DataField>medalValue</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="sport">
+        <DataField>sport</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="discipline">
+        <DataField>discipline</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
