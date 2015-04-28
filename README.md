@@ -11,4 +11,4 @@ This commonly uses the [Redgate maintained](http://www.sqlservercentral.com/arti
  Where it is not possible for you to use this connection, there is a backup connection that can be set to the localhost.
  
  ## More resources
- There is additional conent about SSRS available on [itsalocke.com](http://itsalocke.com/index.php/it/ssrs/)
+ There is additional content about SSRS available on [itsalocke.com](http://itsalocke.com/index.php/it/ssrs/)
